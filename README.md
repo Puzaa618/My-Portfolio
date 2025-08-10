@@ -1,5 +1,5 @@
 # Project Name
-> Basic HTML site for Roadmap.sh
+> Basic Portfolio site for Roadmap.sh
 
 ## Table of Contents
 * [General Info](#general-information)
