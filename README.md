@@ -20,6 +20,7 @@
 - Tech 1 - HTML 5
 - Tech 2 - VS Code 1.92.2
 - Tech 3 - GitHub
+- ChatGPT
 
 ## Features
 List the ready features here:
