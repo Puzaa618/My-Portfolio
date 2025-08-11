@@ -25,10 +25,10 @@
 /*Overall Setting*/
 html
 {
+    overflow:hidden;
     font-size: 0.75rem;
     font-family:'Comic Neue' , cursive;
     border: 1px solid var(--light-color-theme);
-    margin: 10px;
     background-color: var(--background-color-theme);
     color:var(--light-color-theme)
 }
@@ -210,10 +210,6 @@ footer
 /*Media query for dekstop setting*/
 @media (min-width:601px)
 {
-    html
-    {
-        width:100%;
-    }
     .nav-bar
     {
         padding: 10px;
@@ -258,4 +254,5 @@ footer
         width:80%;
         height:80%;
     }
+
 }
