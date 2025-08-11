@@ -210,6 +210,10 @@ footer
 /*Media query for dekstop setting*/
 @media (min-width:601px)
 {
+    html
+    {
+        font-size:1rem;
+    }
     .nav-bar
     {
         padding: 10px;
@@ -256,3 +260,4 @@ footer
     }
 
 }
+
